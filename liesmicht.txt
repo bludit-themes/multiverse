@@ -16,4 +16,4 @@ Funktionen
 
 Multiverse ist eine Galerie. Die Bilder werden als Hauptbilder von Inhalten (Beiträgen oder Seiten) mit der Standardvorgabe veröffentlicht. Die Hauptseite zeigt die Bilder und die Titel, die Lightbox zeigt das Bild, den Titel und den Text.
 
-Für den Bereich "Über" kann das Plugin Über verwendet werden. Ein zusätzliches Panel "Datenschutz" kann mit dem Plugin Textarea hinzugefügt werden.
+Für den Bereich "Über" kann das Plugin Über verwendet werden. Ein zusätzlicher Bereich "Datenschutz" kann mit dem Plugin Textarea hinzugefügt werden.

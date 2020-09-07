@@ -1,7 +1,7 @@
 Multiverse
 ==========
 
-Multiverse is a one-page gallery with a fully functional lightbox and a "panel" system by [HTML5 UP](html5up.net).
+Multiverse is a one-page gallery with a fully functional lightbox and a "panel" system by [HTML5 UP](https://html5up.net).
 
 It's published under the CCA 3.0 license.
 

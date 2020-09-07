@@ -69,9 +69,7 @@
 
 		<!-- Scripts -->
 		
-
 			<?php echo Theme::jquery(); ?>
-			<?php echo Theme::js('js/jquery.min.js'); ?>
 			<?php echo Theme::js('js/jquery.poptrox.min.js'); ?>
 			<?php echo Theme::js('js/browser.min.js'); ?>
 			<?php echo Theme::js('js/breakpoints.min.js'); ?>

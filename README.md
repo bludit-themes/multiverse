@@ -11,7 +11,9 @@ Tools
 * Poptrox: https://github.com/ajlkn/jquery.poptrox
 * Responsive Tools: https://github.com/ajlkn/responsive-tools
 
-Usage
------
+Function
+--------
 
-To use the "About" panel use the plugin About. You can add an additional panel "Privacy" by downloading and activating the plugin Textarea.
+Multiverse is a gallery. The images are posted as cover images of default content. The mainpage shows the image and the title, the lightbox shows the image, the title and the text.
+
+For the "About" panel use the plugin About. You can add an additional panel "Privacy" by downloading and activating the plugin Textarea.

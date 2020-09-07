@@ -11,8 +11,8 @@ Tools
 * Poptrox: https://github.com/ajlkn/jquery.poptrox
 * Responsive Tools: https://github.com/ajlkn/responsive-tools
 
-Function
---------
+Functions
+---------
 
 Multiverse is a gallery. The images are posted as cover images of default content. The mainpage shows the image and the title, the lightbox shows the image, the title and the text.
 

@@ -5,4 +5,13 @@ Multiverse is a one-page gallery with a fully functional lightbox and a "panel" 
 
 It's published under the CCA 3.0 license.
 
+Tool
+----
+
+* Poptrox: github.com/ajlkn/jquery.poptrox
+* Responsive Tools: github.com/ajlkn/responsive-tools
+
+Use
+---
+
 To use the "About" panel use the plugin About. You can add an additional panel "Privacy" by downloading and activating the plugin Textarea.

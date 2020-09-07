@@ -14,6 +14,6 @@ Tools
 Functions
 ---------
 
-Multiverse is a gallery. The images are posted as cover images of default content. The mainpage shows the image and the title, the lightbox shows the image, the title and the text.
+Multiverse is a gallery. The images are posted as cover images of default content. The mainpage shows the images and the titles, the lightbox shows the image, the title and the text.
 
 For the "About" panel use the plugin About. You can add an additional panel "Privacy" by downloading and activating the plugin Textarea.

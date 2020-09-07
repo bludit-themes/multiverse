@@ -8,8 +8,8 @@ It's published under the CCA 3.0 license.
 Tool
 ----
 
-* Poptrox: github.com/ajlkn/jquery.poptrox
-* Responsive Tools: github.com/ajlkn/responsive-tools
+* Poptrox: https://github.com/ajlkn/jquery.poptrox
+* Responsive Tools: https://github.com/ajlkn/responsive-tools
 
 Use
 ---

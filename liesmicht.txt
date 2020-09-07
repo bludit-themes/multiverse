@@ -1,0 +1,19 @@
+Multiverse
+==========
+
+Multiverse ist eine One-Page-Galerie mit einer Lightbox und einem "Panel"-System von HTML5 UP (https://html5up.net).
+
+Das Theme ist unter der Lizent CCA 3.0 veröffentlicht.
+
+Tools
+-----
+
+* Poptrox: https://github.com/ajlkn/jquery.poptrox
+* Responsive Tools: https://github.com/ajlkn/responsive-tools
+
+Funktionen
+----------
+
+Multiverse ist eine Galerie. Die Bilder werden als Hauptbilder von Inhalten (Beiträgen oder Seiten) mit der Standardvorgabe veröffentlicht. Die Hauptseite zeigt die Bilder und die Titel, die Lightbox zeigt das Bild, den Titel und den Text.
+
+Für den Bereich "Über" kann das Plugin Über verwendet werden. Ein zusätzliches Panel "Datenschutz" kann mit dem Plugin Textarea hinzugefügt werden.

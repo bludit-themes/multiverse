@@ -19,6 +19,8 @@
 				}
 
 				?>
+				
+				<p>
 
 			</section>
 
@@ -108,6 +110,8 @@
 					echo $plugin->siteSidebar();
 				}
 				?>
+				
+				<p>
 
 			</section>
 
